@@ -1,5 +1,5 @@
 
-REACT-BOILERPLATE ARTICLES-BLOG (Test work) <br />
+<b>REACT-BOILERPLATE ARTICLES-BLOG (Test work)</b> <br />
 React/Redux/Immutable.js/Saga
 
 <img src="http://feelart.com.ua/image/react_boilerplate_1.png" alt="react boilerplate banner" align="center" />
